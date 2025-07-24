@@ -1,0 +1,7 @@
+git remote add origin https://github.com/zahinmahmud/pythonmodels.git
+git push -u origin main
+
+git status
+git add .
+git commit -m "Add model2.py, models.py, and mymodel.py"
+git push
